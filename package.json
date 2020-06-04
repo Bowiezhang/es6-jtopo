@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "jtopo",
+    "es6"
+  ],
+  "author": {
+    "name": "zhangjiexiang",
+    "email": "1104804601@qq.com"
+  },
   "license": "MIT",
   "dependencies": {}
 }
